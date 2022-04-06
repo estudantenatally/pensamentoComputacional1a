@@ -1,1 +1,1 @@
-# pensamentoComputacional1a
+Natally Nikoli Nicole 

@@ -1,3 +1,32 @@
+<!DOCTYPE html>
+<html  lang = "pt-br">
+
+    <head>
+        <meta charset ="UTF-8">
+        <title> AS N </title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    
+    <body>
+        <h1>  <strong> as N </strong> </h1>
+        <h2> "estetica e beleza" </h2>
+        <p> Nossa empresa se chama <strong> glowl up </strong> , ela tem 5 andares e é localizada no <em> centro da cidade </em> </p>
+        <p> 1° Andar é a recepção, onde é marcado como consultas para melhorarem sua aparência </p>
+        <p> 2° Andar é onde os funcionarios trabalham </p>
+        <p> 3° Andar é a sala de teste de produtos </p>
+        <p> 4º Andar é armazenado os materiais </p>
+        <p> 5° Sala da <strong> CEO </strong>  </p>
+        <img  src = " glow.jpg ">
+        <ul>
+            <li> Rinoplastia; 12.599,00 </li>
+            <li> Botox; 2.299,00 </li>
+            <li> Otoplastia; 9.999,00 </li>
+            <li> Ritidoplastia; 7.999,00 a 18.000,00 </li>
+            <li> Mentoplastia; 11.000,00 </li>
+        </ul>
+    </body>
+
+    </html>                                             
             body {
                 background :  #FFE4E1 ;
             }

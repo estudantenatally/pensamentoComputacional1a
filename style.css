@@ -1,10 +1,13 @@
                                             
             body {
-                background :  #FFE4E1 ;
+                background:  #FFE4E1;
+              background-image: src="fundo";
+              background-size: cover;
             }
 
             h1 {
                 text-align : center;
+              
             }
             h2 {
                 text-align : center;

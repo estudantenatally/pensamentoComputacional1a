@@ -1,7 +1,7 @@
                                             
             body {
                 background:  #FFE4E1;
-              background-image: src="fundo";
+              background-image: url("fundo.png");
               background-size: cover;
             }
 
